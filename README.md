@@ -1,7 +1,7 @@
 # node-static-server
 使用nodejs快速搭建本地服务环境，便于前端开发和调试
 
-# 前置
+## 前置
 安装了nodejs及npm
 
 ## 使用步骤
