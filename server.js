@@ -12,4 +12,4 @@ var __port = 8080;
 
 //启动服务
 app.listen(__port);//绑定监听的端口
-console.log('Express started on port '+__port);//输出监听信息
+console.log('nodejs started on port '+__port);//输出监听信息

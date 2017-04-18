@@ -6,9 +6,10 @@
 
 # 使用步骤
 
-1. 打开命令行窗口
-2. 输入命令`npm install`，安装依赖
-3. 运行环境`npm start`
+先把代码包下载到本地，并解压
+1. 在代码所在文件夹shift+右击，菜单中选择“在此处打开命令行窗口”，进入命令行
+2. 输入`npm install`，安装依赖
+3. 开启运行环境`npm start`，看到`nodejs started on port 8080`表示启动成功
 4. 在浏览器中打开`http://localhost:8080`即可运行
 
 # server.js
