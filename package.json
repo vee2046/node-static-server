@@ -6,6 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js",
+    "proxy": "node server_proxy.js",
     "imgdl": "node tools/web.js"
   },
   "author": "LucyWu",
@@ -13,6 +14,9 @@
   "dependencies": {
     "connect": "^3.6.0",
     "request": "^2.88.2",
-    "serve-static": "^1.12.1"
-  }
+    "restana": "^4.9.6",
+    "serve-static": "^1.12.1",
+    "fast-proxy": "^2.1.0"
+  },
+  "devDependencies": {}
 }
